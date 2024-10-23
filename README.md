@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Foodpanda Clone
 
-## Getting Started
+This project is a clone of the Foodpanda website, built using **React**, **Next.js**, and **Tailwind CSS**. The clone replicates sections of the original website, including features like downloading the app, listing restaurants, and food delivery services.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Responsive Design:** The layout is fully responsive, ensuring a great user experience on both mobile and desktop.
+- **App Download Section:** Links to download the app from the App Store, Google Play, and AppGallery.
+- **Restaurant Listings:** Information about partnering with Foodpanda and listing your restaurant.
+- **Corporate Section:** A section dedicated to Foodpanda's corporate services for businesses.
+- **FAQ Section:** Answers to common questions about ordering, delivery, payment options, and more.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Next.js**: A React framework for building fast, server-side rendered applications.
+- **Tailwind CSS**: A utility-first CSS framework for styling the UI.
+- **React**: For building interactive components and user interfaces.
