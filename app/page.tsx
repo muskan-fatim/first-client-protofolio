@@ -1,17 +1,17 @@
-import Navbar from "./components/nav";
-import Main from "./components/main";
-import BusinessLunch from "./components/footer";
-import RestaurantGrid from "./components/resturant";
+import Navbar from './components/navbar';
+import Hero from './components/hero';
+import About from './components/about';
+import Projects from './components/project';
+import Contact from './components/contact';
+
 export default function Home() {
   return (
-    <div className="bg-gray-100 h-screen w-screen">
-
-<Navbar />
-<Main />
-<RestaurantGrid />
-
-<BusinessLunch />
+    <div className='min-h-screen'>
+      <Navbar />
+      <Hero />
+      <About />
+      <Projects />
+      <Contact />
     </div>
   );
 }
-
