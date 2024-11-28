@@ -9,8 +9,8 @@ const robo = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Food panda",
-  description: "food and grocery store",
+  title: "Protoflio",
+  description: "show case all skill and project",
 };
 
 export default function RootLayout({
