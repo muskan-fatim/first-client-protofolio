@@ -13,7 +13,7 @@ export default function Navbar() {
     <nav className="bg-gray-800 text-white p-4 fixed w-full z-50">
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
-       <i><h1>Munim Arain</h1></i>
+       <i><h1>Abdul Munim Arain</h1></i>
         {/* Hamburger Icon (Mobile) */}
         <button
           className="text-2xl md:hidden focus:outline-none"
