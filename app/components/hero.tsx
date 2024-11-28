@@ -1,6 +1,6 @@
 export default function Hero() {
     return (
-      <section className="h-screen bg-gradient-to-tr from-[#0A2540]  to-[#A2E4F4] text-white flex items-center justify-center">
+              <section className="h-screen bg-gradient-to-tr from-[#1565C0]  to-[#E3F2FD] text-white flex items-center justify-center">
         <div className="text-center px-4 sm:px-6 md:px-12 lg:px-24 flex flex-col sm:flex-row items-center">
           {/* Text Section */}
           <div className="sm:w-1/2 mt-6 sm:mt-0 sm:pl-6 md:hidden">
