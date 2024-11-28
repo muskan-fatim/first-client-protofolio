@@ -1,13 +1,13 @@
 export default function Hero() {
     return (
-      <section className="h-screen bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white flex items-center justify-center">
+      <section className="h-screen bg-gradient-to-tr from-[#0A2540]  to-[#A2E4F4] text-white flex items-center justify-center">
         <div className="text-center px-4 sm:px-6 md:px-12 lg:px-24 flex flex-col sm:flex-row items-center">
           {/* Text Section */}
           <div className="sm:w-1/2 mt-6 sm:mt-0 sm:pl-6 md:hidden">
             <img
-              src="https://cf-sparkai-live.s3.amazonaws.com/users/2pQGr0Z2Ancj7kbKw8f6Wey8LpP/spark_ai/o_bg-remover-gen_2pQHMqbuDX8182KtT8OUPRzqHGT.png"  // Replace with your image URL
+              src="main_picture.jpeg"  // Replace with your image URL
               alt="Abdul Munim Arain"
-              className="w-full max-w-xs mx-auto rounded-full shadow-xl shadow-black border-2 border-white bg-black mt-10"
+              className="w-full max-w-xs mx-auto rounded-full mt-7 shadow-xl shadow-black border-2 border-white"
             />
           </div>
           <div className="sm:w-1/2">
@@ -28,7 +28,7 @@ export default function Hero() {
           {/* Image Section */}
           <div className="sm:w-1/2 mt-6 sm:mt-0 sm:pl-6 hidden md:block">
             <img
-              src="https://cf-sparkai-live.s3.amazonaws.com/users/2pQGr0Z2Ancj7kbKw8f6Wey8LpP/spark_ai/o_bg-remover-gen_2pQHMqbuDX8182KtT8OUPRzqHGT.png"  // Replace with your image URL
+              src="main_picture.jpeg"  // Replace with your image URL
               alt="Abdul Munim Arain"
               className="w-full max-w-xs mx-auto rounded-full shadow-xl shadow-black border-2 border-white bg-black"
             />
