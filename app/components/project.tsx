@@ -12,6 +12,10 @@ export default function Projects() {
       { title: 'Business post', description: "Professional banner to Boost Brand Visibility", image: "/no7.jpg" },
       { title: 'Marketing flyer', description: "Professional flyer to Boost Brand Visibility", image: "/no8.jpg" },
       { title: 'Marketing flyer', description: "Professional flyer to Boost Brand Visibility", image: "/no9.jpg" },
+      { title: 'persnal flyer', description: "Professional flyer to Boost Brand Visibility", image: "https://i.ibb.co/QKNWqnQ/66352824391a.jpg" },
+      { title: 'Marketing flyer', description: "Professional flyer to Boost Brand Visibility", image: "https://i.ibb.co/s3nLfB2/21e9746b3791.jpg" },
+
+      
     ],
     Logos: [
       { title: 'Logo', description: "Creative logo design representing Brand Identity with modern aesthetics.", image: "/logo1.jpg" },
